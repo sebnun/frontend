@@ -1,0 +1,19 @@
+.offering-section .offering-info-box {
+    position: relative;
+    min-height: 300px;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+.offering-section .offering-info-box h3 {
+    padding-top: 5px;
+}
+.offering-section .offering-info-box p {
+    height: 120px;
+    padding: 10px;
+}
+.offering-section .offering-info-box .bottom-triangle {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
