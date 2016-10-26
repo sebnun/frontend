@@ -23,7 +23,8 @@ Item.propTypes = {
   image: React.PropTypes.string.isRequired,
   title: React.PropTypes.string.isRequired,
   description: React.PropTypes.string.isRequired,
-  buttonLabel: React.PropTypes.string.isRequired
+  buttonLabel: React.PropTypes.string.isRequired,
+  href: React.PropTypes.string
 }
 
 Item.defaultProps = {
