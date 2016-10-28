@@ -13,3 +13,4 @@ To run them use this command:
 
 `npm run test`
 
+Press `a` to run all tests.
